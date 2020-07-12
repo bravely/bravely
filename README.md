@@ -14,14 +14,20 @@ One of these is required:
 ### Note About Breaking Changes
 My last name is `Demarest-Mays`. I don't respond to my 1.0 name, `Mays`.
 
+
+## Usage
+
+You can readily get my thoughts either by going to my Twitter or Substack blog.
+
+### [bravely.substack.com](https://bravely.substack.com)
+
+This is my long-form writing. I'm just getting started after a long hiatus from writing, so I'm not entirely sure what I'm going to cover here. Some of what I'm interested in is Stress Management, Communication, Organizational Techniques(both for yourself and within your organization), but I've found recently I've also been writing about some more contentious topics. Feedback always welcome!
+
+### [twitter.com/bravely](https://twitter.com/bravely)
+
+This is more of a by-the-moment view of my life. I'm very open and do my best to stay positive, but feel free to reach out!
+
 ## TODO
-* Usage
-  * Newsletter
-  * Twitter
-  * Unimplemented
-    * Vlog
-    * Insta
-    * yarr
 * Contributors
   * Family
   * Boise
