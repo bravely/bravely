@@ -27,8 +27,12 @@ This is my long-form writing. I'm just getting started after a long hiatus from 
 
 This is more of a by-the-moment view of my life. I'm very open and do my best to stay positive, but feel free to reach out!
 
-## TODO
-* Contributors
-  * Family
-  * Boise
-  * Gaming
+## Contributors
+
+### Family
+
+My wife Allison isn't just my better half, she's my partner is all parts of my life. I wouldn't be half of who I am day to day without her, she's my secret superpower. Also, in March of 2020, we adopted a baby who is helping to uncover a hidden killer app for me: Fatherhood.
+
+### Boise
+
+We live in Boise, ID. I got stuck here after meeting my wife here just before I was planning on moving away, and I thank God every time I'm reminded of it. Boise's a terrible place to vacation(unless you love doing outdoor stuff- Bogus Basin is amazing year-round), but it's one of the best cities you can live in, thanks to a responsive government, amazing and diverse food, and just a lot of great people. If you ever come through, please reach out, I'd love to hang out(with masks, if it's still crazy-times).
