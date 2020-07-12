@@ -12,7 +12,7 @@ One of these is required:
 * `Civic Education & Engagement` - I want to empower everyone I can to get more involved in their world.
 
 ### Note About Breaking Changes
-My last name is `Demarest-Mays`. I don't respond to my 1.0 name, `Mays`.
+When I upgraded to marriage, my surname was updated to `Demarest-Mays`, from `Mays` originally.
 
 
 ## Usage
